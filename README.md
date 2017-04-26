@@ -1,3 +1,3 @@
 # CBot
 
-[![Join the chat at https://gitter.im/CinnamonVK/Lobby](https://badges.gitter.im/CinnamonVK/Lobby.svg)](https://gitter.im/CinnamonVK/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Подкключитесь к комьюнити на https://gitter.im/CinnamonVK/Lobby](https://badges.gitter.im/CinnamonVK/Lobby.svg)](https://gitter.im/CinnamonVK/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
